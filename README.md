@@ -34,6 +34,8 @@
 <hr style="border:2px solid gray">
 
 [![My Skills](https://skillicons.dev/icons?i=aws,pytorch,tensorflow,py,php,mysql,matlab,latex,linux,powershell,ai,html,heroku,git,flask,figma,discord,css,autocad,flutter&perline=3)](https://skillicons.dev)
+<hr style="border:2px solid gray">
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/taureanjoe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="taureanjoe" /></a></p><br><br>
