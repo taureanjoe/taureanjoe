@@ -1,8 +1,8 @@
 <p align="left"> <a href="https://twitter.com/taurean_joe" target="blank"><img src="https://img.shields.io/twitter/follow/taurean_joe?logo=twitter&style=for-the-badge" alt="taurean_joe" /></a> 
 <a href="https://www.linkedin.com/in/donjoejacob/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="taurean_joe" /></a>
-<img alt="Discord" src="https://img.shields.io/discord/712707649828945921?color=red&label=Join%20Discord%20Community&logo=discord&style=for-the-badge"></p>
+<a href="https://discord.gg/xDrRDTsZTw" target="blank"><img alt="Discord" src="https://img.shields.io/discord/712707649828945921?color=red&label=Join%20Discord%20Community&logo=discord&style=for-the-badge"></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/taureanjoe?color=green&logo=github&style=for-the-badge"></p>
 
-![GitHub followers](https://img.shields.io/github/followers/taureanjoe?label=Follow&logo=github&style=for-the-badge)
 
 <h1 align="center">Hi 👋, I'm Joe Jacob</h1>
 <h3 align="center">A Mechanical Engineer going meta on Data Science</h3>
