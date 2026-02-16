@@ -7,8 +7,8 @@
 
 <p align="center">
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_TWITTER_OR_X"><img src="https://img.shields.io/twitter/follow/YOUR_HANDLE?logo=twitter&style=for-the-badge" /></a>
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" /></a>
+<a href="YOUR_TWITTER_OR_X"><img src="https://img.shields.io/twitter/follow/taureanjoe?logo=twitter&style=for-the-badge" /></a>
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/github/followers/taureanjoe?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -55,11 +55,11 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=taureanjoe&show_icons=true&locale=en" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taureanjoe&show_icons=true&layout=compact" />
 </p>
 
 ---
@@ -73,9 +73,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN  
-- Email: YOUR_EMAIL (optional)  
-- Blog / Articles: YOUR_BLOG (optional)
+- LinkedIn: Don Joe Jacob    
+- Blog / Articles: Don Jacob (Medium)
 
 ---
 
